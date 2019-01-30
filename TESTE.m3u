@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="https://3.bp.blogspot.com/-1lp0y51a85g/WoTeruA-L6I/AAAAAAAAB9c/r7LyZkJUfj0LDGl-bsRALqd667bWLfEIwCLcBGAs/s1600/grj.png" group-title="CANAIS GLOBO",GLOBO RJ FHD
+http://srv.elitehdbr.vip:8880/Eddiee/iK2AOGn2jH/5789
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://3.bp.blogspot.com/-1lp0y51a85g/WoTeruA-L6I/AAAAAAAAB9c/r7LyZkJUfj0LDGl-bsRALqd667bWLfEIwCLcBGAs/s1600/grj.png" group-title="CANAIS GLOBO",GLOBO RJ HD
+http://srv.elitehdbr.vip:8880/Eddiee/iK2AOGn2jH/345
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD [A]" tvg-logo="https://3.bp.blogspot.com/-1lp0y51a85g/WoTeruA-L6I/AAAAAAAAB9c/r7LyZkJUfj0LDGl-bsRALqd667bWLfEIwCLcBGAs/s1600/grj.png" group-title="CANAIS GLOBO",GLOBO RJ HD [A]
+http://srv.elitehdbr.vip:8880/Eddiee/iK2AOGn2jH/2823
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="https://3.bp.blogspot.com/-1lp0y51a85g/WoTeruA-L6I/AAAAAAAAB9c/r7LyZkJUfj0LDGl-bsRALqd667bWLfEIwCLcBGAs/s1600/grj.png" group-title="CANAIS GLOBO",GLOBO RJ SD
+http://srv.elitehdbr.vip:8880/Eddiee/iK2AOGn2jH/4860
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD H265" tvg-logo="https://2.bp.blogspot.com/-zXkeaygUnTA/WoTerU7_M1I/AAAAAAAAB9Y/L0U03FkDWc4XJy9QifNgBZLMVyIZbAd-gCLcBGAs/s1600/gsp.png" group-title="CANAIS GLOBO",GLOBO SP FHD H265
+http://srv.elitehdbr.vip:8880/Eddiee/iK2AOGn2jH/2974
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://2.bp.blogspot.com/-zXkeaygUnTA/WoTerU7_M1I/AAAAAAAAB9Y/L0U03FkDWc4XJy9QifNgBZLMVyIZbAd-gCLcBGAs/s1600/gsp.png" group-title="CANAIS GLOBO",GLOBO SP FHD
+http://srv.elitehdbr.vip:8880/Eddiee/iK2AOGn2jH/6283
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TVB CAMPINAS HD" tvg-logo="https://3.bp.blogspot.com/-c9aU4rBE_ag/Wg7yFWLq2xI/AAAAAAAABJM/OjCA8I03iAInvii6idvJdWKr5aG25nNLgCPcBGAYYCw/s1600/tvb.png" group-title="CANAIS RECORD TV",RECORD TVB CAMPINAS HD
+http://srv.elitehdbr.vip:8880/Eddiee/iK2AOGn2jH/6549
+#EXTINF:-1 tvg-id="tvrecord.pt" tvg-name="RECORD TV PORTUGAL" tvg-logo="https://3.bp.blogspot.com/-yX8UsL_hfLM/Wg7x-4fGpBI/AAAAAAAABHs/WKh0QKd3A7QhqqIKwftJ3jERGRotG43QgCPcBGAYYCw/s1600/record.png" group-title="CANAIS RECORD TV",RECORD TV PORTUGAL
+http://srv.elitehdbr.vip:8880/Eddiee/iK2AOGn2jH/1717
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FHD" tvg-logo="https://3.bp.blogspot.com/-FfvzZ0mtX4M/Wg7x0uXXwRI/AAAAAAAABFc/1m0Ry30hXZgqO0zBUx0rqrBuLKVbZifWACPcBGAYYCw/s1600/band.png" group-title="CANAIS ABERTOS",BAND FHD
+http://srv.elitehdbr.vip:8880/Eddiee/iK2AOGn2jH/6285
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RS FHD" tvg-logo="https://3.bp.blogspot.com/-FfvzZ0mtX4M/Wg7x0uXXwRI/AAAAAAAABFc/1m0Ry30hXZgqO0zBUx0rqrBuLKVbZifWACPcBGAYYCw/s1600/band.png" group-title="CANAIS ABERTOS",BAND RS FHD
+http://srv.elitehdbr.vip:8880/Eddiee/iK2AOGn2jH/10676
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="https://3.bp.blogspot.com/-FfvzZ0mtX4M/Wg7x0uXXwRI/AAAAAAAABFc/1m0Ry30hXZgqO0zBUx0rqrBuLKVbZifWACPcBGAYYCw/s1600/band.png" group-title="CANAIS ABERTOS",BAND HD
+http://srv.elitehdbr.vip:8880/Eddiee/iK2AOGn2jH/4895
+#EXTINF:-1 tvg-id="BandCampinas.br" tvg-name="BAND CAMPINAS HD" tvg-logo="https://3.bp.blogspot.com/-FfvzZ0mtX4M/Wg7x0uXXwRI/AAAAAAAABFc/1m0Ry30hXZgqO0zBUx0rqrBuLKVbZifWACPcBGAYYCw/s1600/band.png" group-title="CANAIS ABERTOS",BAND CAMPINAS HD
+http://srv.elitehdbr.vip:8880/Eddiee/iK2AOGn2jH/6548
+#EXTINF:-1 tvg-id="UnisulTV.br" tvg-name="UNISUL TV" tvg-logo="https://i.imgur.com/Wb8wOWB.png" group-title="CANAIS ABERTOS",UNISUL TV
+https://hls.brasilstream.com.br/live/sitetv/sitetv/rewind-7200.m3u8
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD [A]" tvg-logo="https://3.bp.blogspot.com/-FfvzZ0mtX4M/Wg7x0uXXwRI/AAAAAAAABFc/1m0Ry30hXZgqO0zBUx0rqrBuLKVbZifWACPcBGAYYCw/s1600/band.png" group-title="CANAIS ABERTOS",BAND SD [A]
+http://srv.elitehdbr.vip:8880/Eddiee/iK2AOGn2jH/7515
